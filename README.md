@@ -3,7 +3,7 @@
 
 *Needleman-wunsch algorithm* implementation in Python to align protein or nucleotide sequences.
 
-Scoring :  
-  - match = 4
-  - miss match = -3
-  - gap = -2
+You need to define a scoring scheme :  
+  - match
+  - miss match
+  - gap
